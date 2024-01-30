@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "question": "How many ______ the exam?",
+      "options": [
+        "a. students passed",
+        "b. students did pass",
+        "c. did pass",
+        "d. did students pass"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "The longer you practice every day, _____.",
+      "options": [
+        "a. the best you will get",
+        "b. better you'll get",
+        "c. the better you'll get",
+        "d. you'll get better"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "She is _____ woman.",
+      "options": [
+        "a. an American young intelligent",
+        "b. a young intelligent American",
+        "c.an intelligent young American",
+        "d. an intelligent American young"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "I'm lucky to be surrounded by _____ fascinating people.",
+      "options": ["a. such a", "b. so", "c. so much", "d. such"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "If they beat Manchester next weekend, they _____ ten successive games.",
+      "options": [
+        "a. are winning",
+        "b. have won",
+        "c. will have won",
+        "d. will win"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "You can play outside when you ____ your lunch",
+      "options": [
+        "a. will have eaten",
+        "b. have eaten",
+        "c. are eating",
+        "d. eat"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "_____ the answer if she hadn't helped you?",
+      "options": [
+        "a. Could you find",
+        "b. Had you found",
+        "c. Would you have found",
+        "d. Would you find"
+      ],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "I wish he _____ treating us like idiots. Who does he think he is?",
+      "options": ["a. would stop", "b. stopped", "c. had stopped", "d. stops"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "I love cheese now, but I _____ like it as a child",
+      "options": [
+        "a. didn’t used to",
+        "b. didn’t use to",
+        "c. wasn’t used to",
+        "d. usedn’t to"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "It _____ easy to win the tournament. All the teams were really good.",
+      "options": [
+        "a. mustn't have been",
+        "b. shouldn't have been",
+        "c. might not be",
+        "d. can't have been"
+      ],
+      "correctOption": 3,
+      "points": 30
+    },
+    {
+      "question": "The attacker is thought _____ jumping from the second floor of the building.",
+      "options": [
+        "a. to escaped",
+        "b. that he escaped",
+        "c. to have escaped",
+        "d. he has escaped"
+      ],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "_____ said that is totally crazy.",
+      "options": ["a. Whoever", "b. Whatever", "c. However", "d. Whenever"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "The new model comes in red or white but I don't like _____ of those colours.",
+      "options": ["a. either", "b. neither", "c. none", "d. both"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "We _____ tomorrow morning. The train _____ at 7:45 a.m.",
+      "options": [
+        "a. will leave / leaves",
+        "b. leave / is leaving",
+        "c. are leaving / leaves",
+        "d. leave / leaves"
+      ],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "I _____ her since the day I met her.",
+      "options": ["a. 've loved", "b. 'm loving", "c. love", "d. loving"],
+      "correctOption": 0,
+      "points": 20
+    }
+  ]
+}
